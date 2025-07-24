@@ -7,12 +7,9 @@ This is my first and definitely not last blender project, had a blast learning i
 The creative process behind this project was to learn on how to create 3D models to use in Unreal Engine.
 
 ![Cover](Renders/Donut3.png)
-
-![Cover](Renders/Donut4.png)
-
 The process behind the creation of these meshes was an interesting one, so much interesting that I prefer to simply show you instead of writing.
-
-![Cover](Renders/Donut5.PNG)
+![Cover](Renders/Donut4.png)
 
 The textures used to create the donuts were pretty simple, as I wanted to relive my childhood and recreate one of the best donuts I have ever ate.
 
+![Cover](Renders/Donut5.PNG)
